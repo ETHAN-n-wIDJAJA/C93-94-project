@@ -1,0 +1,70 @@
+body{
+    text-align: center;
+    background-color:#60a3bc ;
+}
+h1{
+    font-family: 'Alatsi';font-size: 60px;
+    color: black;
+}
+#person{
+    width: 60px;
+}
+div{
+    background-color:white;
+    width:50%;
+    margin-left:450px;
+    border-radius: 50px;
+    font-family: 'Bitter';font-size: 22px;
+}
+#login_button{
+    width: 500px;
+    height: 50px;
+    font-family: 'Bitter';font-size: 22px;
+    background-color: #78e08f;
+    border-radius: 20px;
+    border-style: none;
+}
+#user_name, #room_name{
+    width: 380px;
+    text-align: center;
+    height: 50px;
+    border-radius: 10px;
+    font-size: 20px;
+    font-family: 'Bitter';
+}
+h2{
+    font-size: 30px;
+    font-family: 'Bitter';
+}
+#room_button{
+    width: 500px;
+    height: 50px;
+    font-family: 'Bitter';font-size: 22px;
+    background-color: #78e08f;
+    border-radius: 20px;
+    border-style: none;
+}
+#room_name{
+    width: 1000px;
+    text-align: center;
+    height: 50px;
+    border-radius: 10px;
+    font-size: 20px;
+    font-family: 'Bitter';
+}
+#people, #exit{
+    width: 60px;
+}
+#logout{
+    margin-left: 1600px;
+    height: 50px;
+    width: 100px;
+    background-color: #eb2f06;
+    border-radius: 10px;
+    font-family: 'Bitter';
+    font-size: 20px;
+    border-style: none;
+}
+#slayy.html{
+    background-color: #4a69bd;
+}
